@@ -31,4 +31,4 @@ int main() {
 
     printf("True");
     return 0;
-}IX IS SYMMETRIC
+}
